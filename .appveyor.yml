@@ -1,7 +1,8 @@
 version: '{build}'
 
 # https://www.appveyor.com/docs/build-environment/#build-worker-images
-image: Visual Studio 2022
+image: Windows
+cloud: SZ-HD-CG31234FL
 
 install:
 
