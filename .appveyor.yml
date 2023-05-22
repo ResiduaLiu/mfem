@@ -1,7 +1,7 @@
 version: '{build}'
 
 # https://www.appveyor.com/docs/build-environment/#build-worker-images
-image: Visual Studio 2019
+image: Visual Studio 2022
 
 install:
 
