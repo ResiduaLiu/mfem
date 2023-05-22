@@ -2,9 +2,6 @@ version: '{build}'
 
 # https://www.appveyor.com/docs/build-environment/#build-worker-images
 image: Windows
-artifacts:
-  - path: D:/VABuild
-    name: Binaries
 
 install:
 
